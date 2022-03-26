@@ -1,1 +1,1 @@
-# golang_grammar
+# Goの文法お勉強リポジトリ
